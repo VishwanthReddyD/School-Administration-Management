@@ -1,4 +1,4 @@
-# 🏫 School Timetable Management System
+# 🏫 School Administration Management System
 
 A comprehensive web-based application for managing school timetables, teacher requests, attendance, grades, and administrative tasks. Built with modern web technologies and designed for educational institutions.
 
