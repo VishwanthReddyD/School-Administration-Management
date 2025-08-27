@@ -258,3 +258,5 @@ For support and questions:
 ---
 
 **Built with ❤️ for educational institutions**
+
+*This README provides a comprehensive overview of the School Timetable Management System. For detailed technical documentation, please refer to the inline code comments and API documentation.*
